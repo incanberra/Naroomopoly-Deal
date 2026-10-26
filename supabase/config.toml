@@ -1,0 +1,5 @@
+project_id = "naroomopoly-deal"
+
+[functions.deal]
+# The handler validates the bearer token with Auth; this also supports publishable keys.
+verify_jwt = false
